@@ -1,6 +1,3 @@
-/dts-v1/;
-/plugin/;
-
 / {
 	model = "Qualcomm Technologies, Inc. xiaomi pipa";
 	compatible = "qcom,kona-mtp\0qcom,kona\0qcom,mtp";
